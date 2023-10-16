@@ -12,6 +12,8 @@ import { visuallyHidden } from "@lekoarts/gatsby-theme-minimal-blog/src/styles/u
 import Seo from "@lekoarts/gatsby-theme-minimal-blog/src/components/seo"
 import Hero from "../texts/hero.mdx"
 import Bottom from "../texts/bottom.mdx"
+import "./posts.css"
+
 
 export type MBHomepageProps = {
     posts: {

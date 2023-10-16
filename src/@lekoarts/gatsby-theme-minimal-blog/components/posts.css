@@ -1,0 +1,17 @@
+.poem ul {
+    list-style-type: none;
+}
+
+.poem ul li {
+    font-family: "Quilty";
+    font-style: italic;
+  padding-bottom: 0.15em;
+  font-size: 22px;
+
+}
+
+.poem ul li:first-child::first-letter {
+    font-size:30px;
+    padding-right:3px;
+    font-weight: bold;
+}
