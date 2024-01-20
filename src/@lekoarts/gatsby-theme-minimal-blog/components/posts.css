@@ -15,3 +15,20 @@
     padding-right:3px;
     font-weight: bold;
 }
+
+img {
+    width: auto;
+    height: auto;
+    padding: 0px auto;
+}
+
+.portrait span {
+
+    width: 300px;
+    height: 400px;
+    /* height: 450px; */
+
+}
+.portrait {
+    margin: 10px;
+}
